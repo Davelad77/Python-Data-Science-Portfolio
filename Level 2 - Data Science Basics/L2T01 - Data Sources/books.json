@@ -1,0 +1,62 @@
+{
+    "books": [{
+            "title": "Anna Karenina",
+            "author": "Leo Tolstoy",
+            "year": "1877",
+            "nationality": "Russian"
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "year": "1960",
+            "nationality": "American"
+        },
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "year": "1925",
+            "nationality": "American"
+        },
+        {
+            "title": "One Hundred Years of Solitude",
+            "author": "Gabriel Garcia Marquez",
+            "year": "1967",
+            "nationality": "Colombian"
+        },
+        {
+            "title": "A Passage to India",
+            "author": "E.M. Forster",
+            "year": "1924",
+            "nationality": "British"
+        },
+        {
+            "title": "Invisible MAn",
+            "author": "Ralph Ellison",
+            "year": "1952",
+            "nationality": "American"
+        },
+        {
+            "title": "Beloved",
+            "author": "Toni Morrison",
+            "year": "1987",
+            "nationality": "American"
+        },
+        {
+            "title": "Don Quixote",
+            "author": "Miguel de Cervantes",
+            "year": "1605",
+            "nationality": "Spanish"
+        },
+        {
+            "title": "Shogun",
+            "author": "James Clavell",
+            "year": "1975",
+            "nationality": "British"
+        },
+        {
+            "title": "Mrs. Dalloway",
+            "author": "Virginia Woolf",
+            "year": "1925",
+            "nationality": "British"
+        }]  
+}

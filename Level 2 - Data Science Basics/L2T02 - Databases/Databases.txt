@@ -1,0 +1,52 @@
+1. Define each of the following terms:
+a) Data
+b) Field
+c) Record
+d) File
+
+a) Data: data are raw facts, such as a telephone number, customer name, or
+birth date. Unless they have been organised in some logical manner, data
+have little meaning. A single character is the smallest piece of data that can
+be recognised by a computer. It requires only 1 byte of computer storage.
+b) Field: a field is a character or group of characters that have a specific
+meaning. It is used to define and store data.
+c) Record: a record is a logically connected set of one or more fields that
+describes a person, place, or thing.
+d) File: a file is a collection of related records.
+
+
+2. What is a DBMS and what are its advantages?
+
+● Better data sharing: by managing the database and controlling access to
+data within it, the DBMS makes it possible for end-users to have more
+efficient access to data that is better managed.
+● Improved data integration: by facilitating a variety of end-users to access
+data in a well-managed manner, the DBMS helps provide a clearer and
+more integrated view of the organisation’s operations to the end-users.
+● Minimised data inconsistency: data inconsistency occurs when different
+versions of the same data appear in different places. A properly designed
+database greatly reduces the probability of data inconsistency through data
+normalisation, which reduces redundancy and increases data integrity.
+● Improved data access: a query is a specific request for data manipulation
+(e.g. to read or update the data) sent to the DBMS. The DBMS makes it
+possible to produce quick answers to spur-of-the-moment queries.
+● Improved decision making: better quality information (on which decisions
+are made) is generated due to better managed data and improved data
+access.
+● Increased end-user productivity
+
+
+3. Explain the difference between data and information.
+Data are raw facts whereas information is the result of processing implemented on those data
+
+
+4. What is metadata?
+Metadata is the descriptions of the data characteristics
+
+
+5. Given the file in the databases pdf, answer the following questions:
+a) How many records does the file contain?
+b) How many fields are there per record?
+
+a) The file contains 5 records, 1 for the headers and 4 for the data
+b) There are 5 fields per record
