@@ -1,0 +1,55 @@
+Task 1 - An algorithm asking a user to enter a positive number repeatedly until the user enters a zero value, then determines and outputs the largest of the numbers that were input
+
+Pseudo Code
+request a positive integer from the user
+while the integer is greater than zero 
+	store the input as a variable
+request another positive integer form the user
+if the new integer is greater than variable
+	save over the old variable with the new integer
+repeat until the integer input is zero
+	print out the variable
+
+
+Task 2 - algorithm that requests a user input their name then stores the name in a variable called first_name. Subsequetly the algorithm should print out the first_name along with the phrase "Hello World"
+
+Pseudo Code
+request the user's first name
+store the input in a variable called first_name
+print first_name and "Hello, World"
+
+Task 3 - an algorithm that reads an arbitrary number of integers and then returns their arithmetic average
+
+Pseudo Code
+set the variable called total to zero
+set the variable called counter to one
+until the user inputs zero
+	input an integer
+	add the integer to the variable total
+	add one to the counter
+calculate the average by dividing total by counter and store as variable average
+print average
+
+Task 4 - an algorithm that reads a grocery list and prints out the products  (in alphabetical order) that are still left to buy
+
+Pseudo Code (got the idea for using list from chatgpt)
+request the user input their grocery list
+	store the items in a list called grocery_list
+request the user input the items they have added to their cart
+	store the items in a new list called added_items
+compare the two lists and remove duplicate items from grocery_list
+sort grocery_list into alphabetical order
+print grocery_list
+
+
+Task 5 - an algorithm for the flowchart diplayed on the website
+
+Pseudo Code
+request user enter an integer and store it as variable X
+request user enter an integer and store it as variable Y
+calculate X + Y and store as variable S
+calculate S / 2 and store as variable A
+calculate X * Y and store as variable P
+print S
+print A
+print P

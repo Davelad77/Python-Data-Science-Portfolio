@@ -1,0 +1,5 @@
+1;London;4000
+2;New York;6000
+3;Rio de Janeiro;10000
+4;Paris;3000
+5;Rome;4000
